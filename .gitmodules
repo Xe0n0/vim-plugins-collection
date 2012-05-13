@@ -1,0 +1,3 @@
+[submodule "vim-plugins-collection"]
+	path = vim-plugins-collection
+	url = git@github.com:ZeR0-Wu/vim-plugins-collection.git
